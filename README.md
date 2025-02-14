@@ -12,8 +12,7 @@ Este site é uma simulação, representando um escritório de advocacia fictíci
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/lexfortis.jpg
-  " width="100%">
+  <img alt="Projeto LexFortis" src=".github/lexfortis.jpg" width="100%" >
 </p>
 
 ## 🚀 Tecnologias
